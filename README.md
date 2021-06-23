@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding/vlogs
 - 🌱 I’m currently learning whiteHatjr coding
 - 💞️ I’m looking to collaborate on the project
-- 📫 How to reach me 7066708661
+- 📫 How to reach me 7066708661 || https://github.com/atharva-coder || atharvarameshborade.whjr.site.
 
 <!---
 atharva-coder/atharva-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
